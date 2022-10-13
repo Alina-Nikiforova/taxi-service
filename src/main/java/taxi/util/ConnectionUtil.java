@@ -6,9 +6,9 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class ConnectionUtil {
-    private static final String URL = "jdbc:mysql://db4free.net:3306/taxi_db_?serverTimezone=UTC";
-    private static final String USERNAME = "alina_nik";
-    private static final String PASSWORD = "12345678";
+    private static final String URL = "URL_TO_DATABASE";
+    private static final String USERNAME = "DATABASE_USERNAME";
+    private static final String PASSWORD = "DATABASE_PASSWORD";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
