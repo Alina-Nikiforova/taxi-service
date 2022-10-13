@@ -13,7 +13,7 @@ To use all features you need to create new driver and log in using the created u
 in after that you can:
 ![img_3.png](img_3.png)
 
-You can find this application here : https://git.heroku.com/project-taxi-service.git.
+You can find this application here : https://project-taxi-service.herokuapp.com/login.
 _______________________________________
 🚖𝕊𝕖𝕥𝕦𝕡:🚖
 _______________________________________
