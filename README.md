@@ -5,7 +5,8 @@
 🚖ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟:🚖
 _______________________________________________
 This is a web application a taxi service.The main purpose of this application is to keep records of taxi service drivers and cars.
-To use all features you need to create new driver and log
+To use all features you need to create new driver and log in using the created username and password
+
 ![img.png](img.png)
 ![img_4.png](img_4.png)
 
