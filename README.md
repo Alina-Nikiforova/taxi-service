@@ -14,9 +14,13 @@ _______________________________________
 🚖𝕊𝕖𝕥𝕦𝕡:🚖
 _______________________________________
 🔸Clone this project.
+
 🔸Set up Apache Tomcat (required version 9.0.50) and MySQL.
+
 🔸Add a new Tomcat Server configuration and select a war-torn artifact to deploy. Set the application context parameter to "/".
+
 🔸Open MySQL. Create SQL query and copy everything from init_db.sql
+
 🔸In the package utility, open the ConnectionUtil class and set your credentials there instead of dummies to connect to the database:
 
 private static final String USERNAME = "<DATABASE_USERNAME>";
@@ -33,17 +37,24 @@ where:
    <DATABASE_PASSWORD> - password for the user
    
    <URL_TO_DATABASE> is the database URL (for example jdbc:mysql://db4free.net:3306/taxi_db_?serverTimezone=UTC") :
+   
         db4free.net - server name (for local database: localhost)
+        
         3306 - database port number
+        
         taxi_db_ - database name
+        
 🔸Run the project.
-_---------------------------------------
+
+---------------------------------------
 🚖𝕀𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕥𝕒𝕚𝕝𝕤:🚖
 ________________________________________
 Project based on 3-layer architecture:
 
 🔸 Presentation layer (controllers)
+
 🔸 Application layer (services)
+
 🔸 Data access layer (DAO)
 ___________________________________________
 🚖𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕦𝕤𝕖𝕕:🚖
