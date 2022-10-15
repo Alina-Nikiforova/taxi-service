@@ -1,11 +1,11 @@
-                             【T】【a】【x】【i】-【s】【e】【r】【v】【i】【c】【e】
+🚕**Taxi-service**🚕
 
-![image](https://user-images.githubusercontent.com/106925734/195971685-8cc8ee2a-ba01-4d78-a00a-d3b259625d52.png)
-
+   ![TaxiInsuranceCarInsuranceGIF](https://user-images.githubusercontent.com/106925734/195972316-9ca9d672-fb3f-412c-bf76-34199a7b7950.gif)
+                        
 🚖ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟:🚖
 _______________________________________________
 This is a web application a taxi service.The main purpose of this application is to keep records of taxi service drivers and cars.
-You can find this application here : https://project-taxi-service.herokuapp.com/login.
+You can find this application here : <https://project-taxi-service.herokuapp.com/login>.
 To use all features you need to create new driver and log in using the created username and password
 in after that you can:
 
