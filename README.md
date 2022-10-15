@@ -4,7 +4,7 @@
                         
 🚖ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟:🚖
 _______________________________________________
-This is a taxi service web application. The main purpose of this application is to keep a record of taxi drivers and car services.
+This is a taxi service web application. The main purpose of this application is to keep records of taxi service drivers and cars.
 You can find this app [here](https://project-taxi-service.herokuapp.com/login).
 To use all features, you need to register as a new driver and log in using the username and password you created.
 After that you can:
