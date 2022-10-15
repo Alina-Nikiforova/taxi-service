@@ -1,18 +1,24 @@
-🚕**Taxi-service**🚕
+ # 🚖Taxi-service🚖
 
    ![TaxiInsuranceCarInsuranceGIF](https://user-images.githubusercontent.com/106925734/195972316-9ca9d672-fb3f-412c-bf76-34199a7b7950.gif)
                         
 🚖ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟:🚖
 _______________________________________________
-This is a web application a taxi service.The main purpose of this application is to keep records of taxi service drivers and cars.
-You can find this application here : <https://project-taxi-service.herokuapp.com/login>.
-To use all features you need to create new driver and log in using the created username and password
-in after that you can:
+This is a taxi service web application. The main purpose of this application is to keep a record of taxi drivers and car services.
+You can find this app [here](https://project-taxi-service.herokuapp.com/login).
+To use all features, you need to register as a new driver and log in using the username and password you created.
+After that you can:
+1. View all drivers;
+2. View all cars;
+3. View all manufacturers;
+4. Create a new machine;
+5. Create a new manufacturer;
+6. Add a driver to the car.
 
 ---------------------------------------
 🚖𝕀𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕥𝕒𝕚𝕝𝕤:🚖
 ________________________________________
-Project based on 3-layer architecture:
+Project-based on 3-layer architecture:
 
 🔸 Presentation layer (controllers)
 
@@ -53,7 +59,7 @@ where:
    
    <URL_TO_DATABASE> is the database URL (for example jdbc:mysql://db4free.net:3306/taxi_db_?serverTimezone=UTC") :
    
-        db4free.net - server name (for local database: localhost)
+        db4free.net - server name (for the local database: localhost)
         
         3306 - database port number
         
