@@ -1,17 +1,28 @@
                              【T】【a】【x】【i】-【s】【e】【r】【v】【i】【c】【e】
 
-![img_2.png](img_2.png)
+!(img_2.png)
 
 🚖ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟:🚖
 _______________________________________________
 This is a web application a taxi service.The main purpose of this application is to keep records of taxi service drivers and cars.
 You can find this application here : https://project-taxi-service.herokuapp.com/login.
 To use all features you need to create new driver and log in using the created username and password
-
-![img.png](img.png)
-![img_4.png](img_4.png)
-
 in after that you can:
+
+---------------------------------------
+🚖𝕀𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕥𝕒𝕚𝕝𝕤:🚖
+________________________________________
+Project based on 3-layer architecture:
+
+🔸 Presentation layer (controllers)
+
+🔸 Application layer (services)
+
+🔸 Data access layer (DAO)
+___________________________________________
+🚖𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕦𝕤𝕖𝕕:🚖
+___________________________________________
+🔸JDK 11 🔸Maven 🔸MySQL 8.0.28 🔸JDBC 🔸HTML, CSS 🔸Java Servlet API 4.0.1 🔸Tomcat 9.0.50 🔸Log4j 
 
 _______________________________________
 🚖𝕊𝕖𝕥𝕦𝕡:🚖
@@ -49,19 +60,4 @@ where:
         taxi_db_ - database name
         
 🔸Run the project.
-
----------------------------------------
-🚖𝕀𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥𝕒𝕥𝕚𝕠𝕟 𝕕𝕖𝕥𝕒𝕚𝕝𝕤:🚖
-________________________________________
-Project based on 3-layer architecture:
-
-🔸 Presentation layer (controllers)
-
-🔸 Application layer (services)
-
-🔸 Data access layer (DAO)
-___________________________________________
-🚖𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕦𝕤𝕖𝕕:🚖
-___________________________________________
-🔸JDK 11 🔸Maven 🔸MySQL 8.0.28 🔸JDBC 🔸HTML, CSS 🔸Java Servlet API 4.0.1 🔸Tomcat 9.0.50 🔸Log4j 
 
